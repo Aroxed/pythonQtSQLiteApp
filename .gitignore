@@ -1,0 +1,36 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# PyInstaller
+__pycache__/
+*.spec
+dist/
+build/
+
+# PyQt
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+
+# macOS
+.DS_Store
+
+# IDE-specific
+.idea/
+.vscode/
